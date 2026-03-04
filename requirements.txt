@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+cryptography
+pyotp
+qrcode[pil]
+authlib
+msal
+python-dotenv
+requests

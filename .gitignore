@@ -1,0 +1,7 @@
+# Security: Don't upload these to GitHub!
+.env
+instance/
+venv/
+__pycache__/
+*.pyc
+*.db
